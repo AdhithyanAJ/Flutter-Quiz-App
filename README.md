@@ -1,17 +1,23 @@
-# quizdemo
+# 📱 Flutter Quiz App
 
-A new Flutter project.
+A simple and interactive quiz application built using **Flutter** and **Dart**. Users can answer multiple-choice questions, view their final score, and compare their answers with the correct ones through a detailed results screen.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- Interactive multiple-choice quiz
+- Randomized answer order
+- Instant score calculation
+- Answer summary with correct and selected answers
+- Restart quiz functionality
+- Clean and responsive UI
 
-A few resources to get you started if this is your first Flutter project:
+## 🎥 Demo
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Watch the app in action here:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**➡️ [Demo Video](PASTE_YOUR_VIDEO_LINK_HERE)**
+
+## 🛠️ Built With
+
+- Flutter
+- Dart
